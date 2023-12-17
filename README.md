@@ -5,4 +5,5 @@ Libraries used:
 - pandas
 - numpy
 - seaborn
-- logistic Regression
+
+Various machine learning algorithms are also used.
